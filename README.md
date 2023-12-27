@@ -50,11 +50,3 @@
 ## Configuration
 
 - The default port for the Glances server is set to `61208`. If your Glances server uses a different port, you can specify it during script execution.
-
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements. Contributions are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
